@@ -8,7 +8,7 @@
       </div>
     </aside>
     <article>
-      {{ this.$route.params.chatId }}
+      <RouterView />
     </article>
   </div>
 </template>
