@@ -1,7 +1,7 @@
 <template>
   <h1>What you are looking for? 😏</h1>
 
-  <span>Error 404 👀</span>
+  <span>Not found. Error 404 👀</span>
 </template>
 
 <style>
